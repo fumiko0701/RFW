@@ -1,7 +1,3 @@
-# SEU CODIGO
-
-
-
 ## Sobre o Projeto RFW
 
 RFW (Render Flask Website) é um repositório criado para uso pessoal, servindo como um modelo de aplicação que é frequentemente utilizado. Este projeto fornece uma base para a criação de um site usando Flask em Python, e inclui a configuração para hospedar o site utilizando Gunicorn e Docker.
